@@ -1,0 +1,6 @@
+cms_id,user,feedback,created_at_from_ticket
+TCKT001,User1,"Good service",
+TCKT002,User2,"Slow response",
+TCKT003,User3,"Resolved",
+TCKT004,User4,"Follow-up needed",
+TCKT005,User5,"Quick fix",
